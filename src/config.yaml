@@ -1,6 +1,6 @@
 site:
   name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  site: 'https://mengjiao.vip'
   base: '/'
   trailingSlash: false
 
@@ -70,3 +70,8 @@ analytics:
 
 ui:
   theme: 'system' # Values: "system" | "light" | "dark" | "light:only" | "dark:only"
+
+backend:
+  name: github
+  repo: baodongfan/my-astro-blog # 确保这是你当前的仓库名
+  branch: main # 确保分支正确
